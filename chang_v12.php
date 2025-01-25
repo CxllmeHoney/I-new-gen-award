@@ -699,7 +699,7 @@
     </script>
 
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWO3NgFt1_1fWEN70KwMmgTuFxVmQ76aw&libraries=places&callback=initMap"
+        src="https://maps.googleapis.com/maps/api/js?key=API KEY&libraries=places&callback=initMap"
         async defer></script>
 </body>
 
